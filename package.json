@@ -1,0 +1,30 @@
+{
+  "name": "WebdriverIO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo-diamend/WebdriverIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalo-diamend/WebdriverIO/issues"
+  },
+  "homepage": "https://github.com/gonzalo-diamend/WebdriverIO#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.1.23",
+    "@wdio/cucumber-framework": "^6.1.22",
+    "@wdio/local-runner": "^6.1.23",
+    "@wdio/mocha-framework": "^6.1.19",
+    "@wdio/spec-reporter": "^6.1.23",
+    "@wdio/sync": "^6.1.14",
+    "chromedriver": "^83.0.0",
+    "wdio-chromedriver-service": "^6.0.3"
+  }
+}
